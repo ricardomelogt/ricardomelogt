@@ -2,7 +2,7 @@
 
 
 - 🔭 Almejando me inserir no mercado de TI
-- 🌱 Aprendendo: Kotlin, Desenvolvimento Android, React.Js e React Native
+- 🌱 Aprendendo: Kotlin, Desenvolvimento Android, React.Js e Angular
 - 📫 Mande um salve para mim: ricardofrontend@gmail.com
 <h2></h2>
 <br    />
