@@ -2,7 +2,7 @@
 
 
 - 🔭 Almejando me inserir no mercado de TI
-- 🌱 Aprendendo: React.js
+- 🌱 Aprendendo: React.js, Typescript
 - 📫 Mande um salve para mim: ricardofrontend@gmail.com
 <h2></h2>
 <br    />
