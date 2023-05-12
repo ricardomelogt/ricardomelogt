@@ -1,8 +1,8 @@
 ### Olá! 👋
 
-- 💻 HTML5, CSS3, Javascript, ES6+, Typescript, React.js
+- 💻 HTML5, CSS3, Javascript, ES6+, Typescript, React.js, Python
 - 🎨 Blender 2.8+, Photoshop, Unreal Engine 4
-- 📫 Mande um salve para mim: ricardofrontend@gmail.com
+- 📫 ricardofrontend@gmail.com
 <h2></h2>
 <br    />
 
