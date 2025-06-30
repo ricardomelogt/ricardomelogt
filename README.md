@@ -1,7 +1,7 @@
 ### Olá! 👋
 
-- 💻 HTML5, CSS3, Javascript ES6+, Typescript, React.js, Python, Wordpress
-- 🎨 Blender 2.8+, Photoshop, Unreal Engine 4
+- 💻 HTML5, CSS3, Javascript ES6+, React.js, Python, Wordpress
+- 🎨 Blender 2.8+, Cascadeur, Photoshop, Unreal Engine 4
 - 📫 ricardofrontend@gmail.com
 <h2></h2>
 <br    />
