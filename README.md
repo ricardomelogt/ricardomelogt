@@ -1,10 +1,36 @@
 ### Olá! 👋
 
-- 💻 HTML5, CSS3, Javascript ES6+, React.js, Python, Wordpress
+- 💻 HTML5, CSS3, Javascript ES6+, React.js, Python, Wordpress, PowerBI
 - 🎨 Blender 2.8+, Cascadeur, Photoshop, Unreal Engine 4
 - 📫 ricardofrontend@gmail.com
 <h2></h2>
-<br    />
+
+### **About:**
+💡 **Adaptive Front End Dev** - with a solid core JS foundation. Able to fit in many roles that needs Javascript expertise.  
+🌎 **Fluent English** speaker – comfortable in global teams  
+🚀 **Fast learner** who thrives in challenging environments  
+
+<h2></h2>
+
+### **Tech Stack**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<h2></h2>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardomelogt&show_icons=true&theme=tokyonight)](https://github.com/ricardomelogt/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomelogt&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/ricardomelogt/github-readme-stats)
