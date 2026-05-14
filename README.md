@@ -3,12 +3,6 @@
 - 💻 HTML5, CSS3, Javascript ES6+, React.js, Python, Wordpress, PowerBI
 - 🎨 Blender 2.8+, Cascadeur, Photoshop, Unreal Engine 4
 - 📫 ricardofrontend@gmail.com
-<h2></h2>
-
-### **About:**
-💡 **Adaptive Front End Dev** - with a solid core JS foundation. Able to fit in many roles that needs Javascript expertise.  
-🌎 **Fluent English** speaker – comfortable in global teams  
-🚀 **Fast learner** who thrives in challenging environments  
 
 <h2></h2>
 
