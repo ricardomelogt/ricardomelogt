@@ -23,9 +23,3 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<h2></h2>
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardomelogt&show_icons=true&theme=tokyonight)](https://github.com/ricardomelogt/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomelogt&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/ricardomelogt/github-readme-stats)
-<br    />
